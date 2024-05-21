@@ -7,7 +7,7 @@
   It's a mock data created by me using MySQL server.
 
   ## Tools
-  . MySQL server
+  - MySQL server
 
   
 
