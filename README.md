@@ -17,7 +17,7 @@
   ## Tools
   - MySQL server
   - The important syntax used includes: Create, Use, Insert, Update, and Joins.
-
+    ![](SQLfile.png)
 
 
   
