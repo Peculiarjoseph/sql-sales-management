@@ -8,9 +8,17 @@
 ## Data Source
   It's a mock data created by me using MySQL server.
 
+  ## Purpose Of The Project
+  - Creation and management of a database for a small scale business.
+  - To monitor and manage the database.
+  - Fidning out what category of products are mostly sold.
+  - Getting to know seasonal customers.
+
   ## Tools
   - MySQL server
   - The important syntax used includes: Create, Use, Insert, Update, and Joins.
+
+
 
   
 
